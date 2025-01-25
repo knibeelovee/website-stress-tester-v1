@@ -18,12 +18,12 @@ This tool is strictly for **ethical and educational purposes only**. It is inten
 
 ## Images
 
-- Start screen
-- ![Start screen](images/image1.PNG)
-- Start of the testing
-- ![Start of the testing](images/image2.PNG)
-- When finished
-- ![When finished](images/image2.PNG)
+
+ ![Start screen](images/image1.PNG)
+
+ ![Start of the testing](images/image2.PNG)
+ 
+ ![When finished](images/image2.PNG)
 
 ---
 
