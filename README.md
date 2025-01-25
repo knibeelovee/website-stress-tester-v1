@@ -17,6 +17,13 @@ This tool is **strictly for ethical and educational purposes only**. It is inten
 
 ---
 
+# Images
+
+![Start screen](./images/image1.png)
+
+![Start of the testing](./images/image2.png)
+
+![When finished](./images/image3.png)
 ## **Ethical and Legal Responsibility**
 
 ### **Before You Use This Tool**
