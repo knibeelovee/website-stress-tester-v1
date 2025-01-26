@@ -57,6 +57,10 @@ The following guidelines and responsibilities are critical to ensure you use thi
 5. **Respect for Privacy and Confidentiality**:
    - Ensure that you do not inadvertently test or interact with servers that contain sensitive information or data that you do not have permission to access.
    - **Do not test on any server that holds private, classified, or proprietary data** unless you have clear and explicit consent from the rightful owner.
+  
+ ## Packages needed !
+
+pip install colorama os
 
 ---
 
